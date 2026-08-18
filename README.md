@@ -139,7 +139,7 @@ The dashboard helps answer questions such as:
 
 > Values are based on the current project dataset.
 
-#Repository Contents
+## Repository Contents
 
 ```text
 SaaS-Analytics-PowerBI/
