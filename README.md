@@ -21,7 +21,7 @@ The report contains four analytical pages:
 
 **Dashboard Pages**
 
-**1 Executive Dashboard**
+**1. Executive Dashboard**
 Provides a high-level overview of SaaS business performance.
 
 Key metrics include:
@@ -33,7 +33,7 @@ Churn Rate
 Subscription Performance
 Revenue Trends
 
-**2 Payments Analytics**
+**2. Payments Analytics**
 
 Analyzes payment activity and revenue performance.
 
@@ -61,7 +61,16 @@ Signup Source Analysis
 Customer Status
 Customer Breakdown
 
-**4 Subscription Analytics**
+**Dashboard Preview**
+
+**Executive Dashboard**
+![Executive Dashboard](screenshots/Executive-Dashboard.png)
+
+**Payments Analytics**
+![Payments Analytics](screenshots/payments-analytics.png)
+
+**Customer Analytics**
+![Customer Analytics](screenshots/Customer-analytics.png)
 
 Analyzes subscription health and customer churn.
 
