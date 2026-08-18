@@ -121,14 +121,14 @@ The dashboard helps answer questions such as:
 
 **Key Metrics**
 
-Total Customers - 1,000
-Active Users - 698
-Customer Retention Rate - 69.8%
-Active Subscriptions - 698
-Cancelled Subscriptions - 193
-Expired Subscriptions - 109
-Churn Rate - 19.30%
-Average Revenue Per Customer - 723.21
+**Total Customers** - 1,000
+**Active Users** - 698
+**Customer Retention Rate** - 69.8%
+**Active Subscriptions** - 698
+**Cancelled Subscriptions** - 193
+**Expired Subscriptions** - 109
+**Churn Rate** - 19.30%
+**Average Revenue Per Customer** - 723.21
 
 > Values are based on the current project dataset.
 
